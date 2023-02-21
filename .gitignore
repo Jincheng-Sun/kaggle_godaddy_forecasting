@@ -1,3 +1,5 @@
 *.idea/
 data/
 *.html
+__pycache__
+*venv
