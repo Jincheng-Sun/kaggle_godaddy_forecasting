@@ -17,6 +17,10 @@ Modeling Comparison (Most informative one in my opinion): [Here](https://www.kag
 3. [@KAGGLEQRDL posted](https://www.kaggle.com/datasets/kaggleqrdl/gd2022datasets/code)
 4. [Federal Reserve Economic Data](https://fred.stlouisfed.org/)
 
+data/external:
+- [population_data.csv](https://www.kaggle.com/datasets/ruslansadykov/population-data-for-godaddy)
+- [county-neighbours.csv](https://www.kaggle.com/datasets/ruslansadykov/population-data-for-godaddy)
+
 ### Tools
 
 1. [Pandas-profiling](https://github.com/ydataai/pandas-profiling)
